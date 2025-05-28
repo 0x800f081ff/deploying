@@ -1,1 +1,6 @@
-
+{
+  "admins": [
+    {"hwid": "ton_clientid_ici"},
+    {"hwid": "un_autre_clientid"}
+  ]
+}
