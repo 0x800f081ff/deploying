@@ -11,7 +11,7 @@
         "dossier": "Key figure in Mediterranean cocaine trade. Escaped from prison in 2021 using forged documents. Violent tendencies - has assaulted law enforcement officers. Believed to be hiding in North Africa.",
         "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
         "tags": ["drugs", "violent", "escape"],
-        "hasDox": true,
-        "doxInfo": "╔─────────────────────────────╗\n\nFull Name: María Isabel López García\nAliases: La Rosa, La Flaca, La Fugitiva\n\n__\n# Known Locations\n_____________________\n\n[+] Last confirmed location: Tangier, Morocco (2023)\n[+] Suspected safe houses: Casablanca, Algiers, Marseille\n[+] Linked to cartel: Los Rosales (Mediterranean network)\n\n__\n# Personal Details\n_____________________\n\n[+] Birthplace: Málaga, Spain\n[+] Date of Birth: 15 August 1988\n[+] National ID: XES 2345678L (forged)\n[+] Passport: ES P987654 (compromised)\n\n__\n# Associates\n_____________________\n\n- Javier 'El Jardinero' Mendoza (arrested)\n- Sofia 'La Perfumista' Ruiz (at large)\n- Amir Belkacem (Moroccan contact)\n\n__\n# Additional Notes\n_____________________\n\n- Tattoos: Rose on left forearm, Scorpio sign on neck\n- Medical: Allergic to penicillin\n- Habits: Smokes Ducados cigarettes, drinks espresso\n\n╚─────────────────────────────╝"
+        "hasDox": false,
+        "doxInfo": ""
     }
 ]
